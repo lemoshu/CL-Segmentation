@@ -8,8 +8,6 @@ You can consider citing this paper if it offer help in your work.
 
 Zhang M, Gao J, Lyu Z, et al. Characterizing Label Errors: Confident Learning for Noisy-Labeled Image Segmentation[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020: 721-730.
 
-![Pipeline](https://www.overleaf.com/project/5e61e23151ea080001abc1af/file/5e71af21516bf00001fd32b3)  
-
 ## Environments
 All of the experiments reported in the paper were conducted under the following configuration. Other configurations might not be guaranteed feasible. <br>
 
