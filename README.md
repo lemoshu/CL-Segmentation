@@ -4,7 +4,7 @@ This repository is for 2D Noisy-labeled Medical Image Segmentation with Confiden
 
 [Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_70), MICCAI 2020 
 
-![](.\warehouse\framework.png)
+![framework](warehouse/framework.png)
 
 ## Environments
 All of the experiments reported in the paper were conducted under the following configuration. Other configurations might not be guaranteed feasible. <br>
